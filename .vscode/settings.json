@@ -1,0 +1,9 @@
+{
+  "bun.runtime": "/Users/john/.local/share/mise/shims/bun",
+  "debug.javascript.defaultRuntimeExecutable": {
+    "pwa-node": "/Users/john/.local/share/mise/shims/node"
+  },
+  "python.defaultInterpreterPath": "/Users/john/.local/share/mise/installs/python/3.13.5/bin/python",
+  "java.jdt.ls.java.home": "/Users/john/.local/share/mise/installs/java/24.0.1",
+  "java.import.gradle.java.home": "/Users/john/.local/share/mise/installs/java/24.0.1"
+}
