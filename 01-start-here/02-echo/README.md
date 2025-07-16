@@ -1,5 +1,5 @@
 ---
-tags: stdin, stdout, args
+tags: stdout, args
 ---
 
 # echo
