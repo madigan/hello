@@ -1,6 +1,6 @@
 # hello 👋
 
-This is my little language learning repository—an experiment in project-based learning. While every language is a unique little snowflake, there are still common use cases that (almost!) every language should support. By implementing each use case, one can be reasonably sure that they understand the language.
+This is my little language learning repository—an experiment in project-based learning. While every language is a unique little snowflake, there are still common use cases that (almost!) every language should support. By implementing each use case, one can be reasonably sure that they understand the language. This project is heavily inspired by [Ruby Koans](https://www.rubykoans.com/) and [Rust by Example](https://doc.rust-lang.org/rust-by-example/).
 
 ## Mise
 
