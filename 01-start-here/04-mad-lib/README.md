@@ -6,6 +6,12 @@ tags: stdin, stdout, regex
 
 Collect words from the user and return a goofy sentence.
 
+## Template
+
+```
+The brave [ADJECTIVE] [NOUN] decided to [VERB] across the [ADJECTIVE] [PLACE] to rescue the [ADJECTIVE] [NOUN] from the evil [OCCUPATION]. After [VERB ENDING IN -ING] through [NUMBER] [PLURAL NOUN] and defeating a giant [ANIMAL], our hero finally [PAST TENSE VERB] and saved the day.
+```
+
 ## Given
 
 ```shell
